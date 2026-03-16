@@ -36,16 +36,15 @@ createPlatform(450,600, 200,20,"pink");
 createPlatform(750,500, 200,20,"pink");
 createPlatform(450,200, 200,20,"pink");
 createPlatform(750,100, 200,20,"pink");
-
-createPlatform(1300,500, 200,20,"pink");
-
+createPlatform(1050,200, 200,20,"pink");
+createPlatform(1250,200, 200,20,"pink");
 createPlatform(150,300, 200,20,"pink");
 createPlatform(450,400, 200,20,"pink");
 
 
 
 // TODO 3 - Create Collectables
-createCollectable("database",1130,350,0.5,0.7);
+createCollectable("",1130,350,0.5,0.7);
 createCollectable("diamond",520,450,0.5,0.7);
 createCollectable("max",780,300,0.5,0.7);
 createCollectable('steve', 1100, 624, 0.5, 0.7);
